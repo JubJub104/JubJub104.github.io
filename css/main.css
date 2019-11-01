@@ -1,0 +1,192 @@
+/* CSS Document*/
+body{
+	background-color: #ccc5b9;
+	margin: 0;
+}
+
+.navigation{
+	font-family: sans-serif;
+}
+li{
+	display: inline-block;
+	font-size: 25px;
+	padding: 30px;
+}
+
+h2{
+	color: #ffffff;
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+	color: #ffffff;
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.navigation{
+	display: inline-block;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	min-width: 500px;
+	background-color: #1c5d99;
+	left: 0;
+	top: 0;
+	margin: 0;
+	color: White;
+	border-bottom: 5px solid #403d30;
+	z-index: 10;
+}
+
+.name{
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	color: white;
+	margin-left: 47%;
+	top: -80px;
+	z-index: 8;
+	min-width: 500px;
+}
+
+.banner{
+	height: 450px;
+	margin: 0;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 6;
+	border-bottom: 5px solid #403d30;
+	background-color: #6199dd;
+}
+
+.face{
+	border: 5px solid #403d30;
+	border-radius: 125px;
+	position: relative;
+	width: 240px;
+	left: 30%;
+	z-index: 9;
+	display: inline-block;
+	top: 135px;
+	margin-right: 60%;
+}
+
+*{
+	font-family: sans-serif;
+}
+
+.main{
+	background-color: #1C5D99;
+	width: 60%;
+	min-width: 500px;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom:100px;
+	border: 5px solid #403d30;
+	border-radius: 5px;
+	top: 590px;
+	left: 20%;
+}
+
+.about{
+	width: 70%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+.blurb{
+	width: 90%;
+}
+
+.resume {
+	position: relative;
+	border: 5px solid #403d30;
+    padding: 0;
+	width: 90%;
+	height: 500px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-top: 1%;
+	border-radius: 5px;
+}
+
+.pdf{
+	border: 5px solid white;
+	border-radius: 5px;
+	width: 100%;
+	height: 950px;
+	overflow: auto;
+}
+
+.dlbutton{
+	position: absolute;
+	width: 25%;
+	margin-left: 36%;
+	border: 3px solid white;
+	border-radius: 3px;
+	text-align: center;
+	color: white ;
+	padding: 10px;
+}
+
+.button{
+	color:white;
+	border:4px solid white;
+	border-radius: 4px;
+	padding: 5px;
+	text-align: center;
+	width: 30%;
+	margin-left: 40%;
+}
+
+.paper{
+	position: relative;
+	border: 5px solid #403d30;
+    padding: 0;
+	width: 90%;
+	height: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	margin-top: 1%;
+	border-radius: 5px;
+}
+
+.subtitle{
+	font-size: 25px;
+}
+
+.pic{
+	margin: 0;
+	width: 49%;
+	border: 5px solid white;
+	border-radius: 5px
+}
+
+.picright{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 49%;
+	border: 5px solid white;
+	border-radius: 5px;
+}
+.text{
+	color: white;
+	font-size: 25px;
+}
+
+.papertitle{
+	width: 100%;
+	text-align: center;
+}
